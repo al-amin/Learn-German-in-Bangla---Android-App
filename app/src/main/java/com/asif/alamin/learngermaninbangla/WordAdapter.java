@@ -1,4 +1,4 @@
-package com.example.android.learngermaninbangla;
+package com.asif.alamin.learngermaninbangla;
 
 import android.app.Activity;
 import android.support.annotation.NonNull;

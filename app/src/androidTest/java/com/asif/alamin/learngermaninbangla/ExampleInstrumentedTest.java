@@ -1,4 +1,4 @@
-package com.example.android.learngermaninbangla;
+package com.asif.alamin.learngermaninbangla;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

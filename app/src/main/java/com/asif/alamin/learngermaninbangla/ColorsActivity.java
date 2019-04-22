@@ -1,4 +1,4 @@
-package com.example.android.learngermaninbangla;
+package com.asif.alamin.learngermaninbangla;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
